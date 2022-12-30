@@ -2,18 +2,18 @@
 En este documento se podrá visualizar parte del código y funcionamiento del mismo para la creación visual de paquetes de Gustoso Gourmet.
 
 ## Índice
-- [Creación de vista](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#creaci%C3%B3n-de-vista)
-  * [Cálculo de disponibilidad](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#c%C3%A1lculo-de-disponibilidad)
-    - [Script Disponibilidad](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#script-disponibilidad)
-  * [Stepper](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#stepper)
-    - [Script Stepper](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#script-stepper)
-    - [Botones del usuario (Para función cambiarPaso(n))](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#botones-del-usuario-para-funci%C3%B3n-cambiarpason)
-    - [Script slider de productos](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#script-slider-de-productos)
-    - [Nombre del producto bajo su imagen](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#nombre-del-producto-bajo-su-imagen)
-  * [Lista de productos seleccionados](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#lista-de-productos-seleccionados)
-    - [Script de lista de productos](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#script-de-lista-de-productos)
-  * [Cambio de valor final del Paquete](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#cambio-de-valor-final-del-paquete)
-    - [Script para calcular precio final](https://github.com/valeuwu/Front-paquetes/edit/main/README.md#script-para-calcular-precio-final)
+- [Creación de vista](https://github.com/valeuwu/Front-paquetes#creaci%C3%B3n-de-vista)
+  * [Cálculo de disponibilidad](https://github.com/valeuwu/Front-paquetes#c%C3%A1lculo-de-disponibilidad)
+    - [Script Disponibilidad](https://github.com/valeuwu/Front-paquetes#script-disponibilidad)
+  * [Stepper](https://github.com/valeuwu/Front-paquetes#stepper)
+    - [Script Stepper](https://github.com/valeuwu/Front-paquetes#script-stepper)
+    - [Botones del usuario (Para función cambiarPaso(n))](https://github.com/valeuwu/Front-paquetes#botones-del-usuario-para-funci%C3%B3n-cambiarpason)
+    - [Script slider de productos](https://github.com/valeuwu/Front-paquetes#script-slider-de-productos)
+    - [Nombre del producto bajo su imagen](https://github.com/valeuwu/Front-paquetes#nombre-del-producto-bajo-su-imagen)
+  * [Lista de productos seleccionados](https://github.com/valeuwu/Front-paquetes#lista-de-productos-seleccionados)
+    - [Script de lista de productos](https://github.com/valeuwu/Front-paquetes#script-de-lista-de-productos)
+  * [Cambio de valor final del Paquete](https://github.com/valeuwu/Front-paquetes#cambio-de-valor-final-del-paquete)
+    - [Script para calcular precio final](https://github.com/valeuwu/Front-paquetes#script-para-calcular-precio-final)
     
 # Creación de vista
 ## Cálculo de disponibilidad
